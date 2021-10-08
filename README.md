@@ -3,5 +3,6 @@
   <img width="200" src="https://raw.githubusercontent.com/notqtcris/sugary/main/powered-by-fabric%20(1).svg">
   <img width="140" src="https://forthebadge.com/images/badges/built-with-love.svg">
 </p>
+
 # Sugary - better perfomance for Minecraft
 A FPS Boost for minecraft
